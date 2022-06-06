@@ -15,7 +15,7 @@ class CalculatorButton extends StatelessWidget {
         decoration: BoxDecoration(
           borderRadius: BorderRadius.circular(10),
           border: Border.all(
-            color: Color.fromRGBO(0, 0, 0, 0.5),
+            color: Color.fromRGBO(0, 0, 0, 0.3),
             width: 0.5,
           ),
         ),
